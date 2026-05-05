@@ -1,6 +1,6 @@
-Universidad Politecnica Salesiana
+# Universidad Politecnica Salesiana
 
-Estructura de datos
+## Estructura de datos
 
 Estudiante: Sebastian Arenillas
 
